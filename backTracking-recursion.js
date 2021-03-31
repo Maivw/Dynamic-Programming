@@ -47,3 +47,6 @@ function backTrackingSubset(nums, sum) {
 	return table[nums.length][sum];
 }
 console.log(backTrackingSubset([2, 2, 5], 5));
+
+//https://drive.google.com/file/d/1qs4BIS8lSMdYICkS-QNxP_WDDU2I1HNn/view
+//https://www.youtube.com/watch?v=34l1kTIQCIA&list=PLEJXowNB4kPxBwaXtRO1qFLpCzF75DYrS&index=8
